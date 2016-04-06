@@ -32,7 +32,7 @@
     "redux": "3.3.1",
     "redux-logger": "2.6.1",
     "redux-react-router": "1.0.0-beta1",
-    "redux-thunk": "0.1.0",
+    "redux-thunk": "2.0.1",
     "style-loader": "0.13.1",
     "stylus": "0.52.0",
     "stylus-loader": "2.0.0",
