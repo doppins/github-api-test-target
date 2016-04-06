@@ -11,7 +11,7 @@
     "url": "git+https://github.com/depsy-versioning/github-api-test-target.git"
   },
   "dependencies": {
-    "animate.css": "3.4.0",
+    "animate.css": "3.5.1",
     "camelize": "1.0.0",
     "classnames": "2.2.3",
     "css-loader": "0.23.1",
